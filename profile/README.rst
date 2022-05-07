@@ -2,7 +2,7 @@
 
    <a href="https://www.zephyrproject.org">
      <p align="center">
-       <img src="images/logo-readme.svg">
+       <img src="https://raw.githubusercontent.com/zephyrproject-rtos/.github/main/profile/images/logo-readme.svg">
      </p>
    </a>
 
