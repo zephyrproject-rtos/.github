@@ -1,11 +1,3 @@
-.. raw:: html
-
-   <a href="https://www.zephyrproject.org">
-     <p align="center">
-       <img src="https://raw.githubusercontent.com/zephyrproject-rtos/.github/main/profile/images/logo-readme.svg">
-     </p>
-   </a>
-
 The Zephyr Project is a scalable real-time operating system (RTOS) supporting
 multiple hardware architectures, optimized for resource constrained devices,
 and built with security in mind.
