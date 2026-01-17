@@ -46,9 +46,9 @@ Here's a quick summary of resources to help you find your way around:
 * **Contributing**: see the `Contribution Guide`_
 * **Wiki**: `Zephyr GitHub wiki`_
 * **Issues**: https://github.com/zephyrproject-rtos/zephyr/issues
-* **Security Issues**: Email vulnerabilities@zephyrproject.org to report
-  security issues; also see our `Security`_ documentation. Security issues are
-  tracked separately at https://zephyrprojectsec.atlassian.net.
+* **Security Issues**: Open a draft `security advisory`_ on the Zephyr repository's
+`security advisories page`_ or send an Email to vulnerabilities@zephyrproject.org to report
+  security issues; Also see our `Security`_ documentation.
 * **Zephyr Project Website**: https://zephyrproject.org
 
 .. _Discord Invite: https://chat.zephyrproject.org
