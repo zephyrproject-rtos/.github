@@ -47,7 +47,7 @@ Here's a quick summary of resources to help you find your way around:
 * **Wiki**: `Zephyr GitHub wiki`_
 * **Issues**: https://github.com/zephyrproject-rtos/zephyr/issues
 * **Security Issues**: Open a draft `security advisory`_ on the Zephyr repository's
-`security advisories page`_ or send an Email to vulnerabilities@zephyrproject.org to report
+  `security advisories page`_ or send an Email to vulnerabilities@zephyrproject.org to report
   security issues; Also see our `Security`_ documentation.
 * **Zephyr Project Website**: https://zephyrproject.org
 
@@ -62,4 +62,6 @@ Here's a quick summary of resources to help you find your way around:
 .. _Zephyr mailing list subgroups: https://lists.zephyrproject.org/g/main/subgroups
 .. _Sample and Demo Code Examples: http://docs.zephyrproject.org/latest/samples/index.html
 .. _Security: http://docs.zephyrproject.org/latest/security/index.html
+.. _security advisory:   https://docs.github.com/en/code-security/security-advisories/guidance-on-reporting-and-writing/privately-reporting-a-security-vulnerability#privately-reporting-a-security-vulnerability
+.. _security advisories page:   https://github.com/zephyrproject-rtos/zephyr/security/advisories
 .. _Asking for Help Tips: https://docs.zephyrproject.org/latest/develop/getting_started/index.html#asking-for-help
